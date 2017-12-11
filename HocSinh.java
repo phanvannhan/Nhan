@@ -4,5 +4,6 @@ class HocSinh;
 	{
 		System.out.println("Lan 1");
 		System.out.println("Lan 2");
+		System.out.println("Lan 3");	
 	}
 }
